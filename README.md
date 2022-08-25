@@ -2,7 +2,7 @@
 
 # climate4R training course material
 
-This repository contains training material for a climate4R introductory course held in Buenos Aires (2022) covering the following topics:
+This repository contains training material for a climate4R introductory course held in Buenos Aires (2022) covering the following topics (see the [flyer](Flyer.md) of the first call):
 
  1. [Introduction:](./01_Introduction) Prerequisites and different installation and usage options.
  
