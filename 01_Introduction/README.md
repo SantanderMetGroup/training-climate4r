@@ -6,6 +6,9 @@
 <img src="https://github.com/SantanderMetGroup/climate4R/blob/master/man/figures/climate4R_2.png"/>
 </p>
 
+For futher detail, visit https://github.com/SantanderMetGroup/climate4R and refer to the climate4R article in EMS:
+> M. Iturbide, J. Bedia, S. Herrera, J. Baño-Medina, J. Fernández, M.D. Frías, R. Manzanas, D. San-Martín, E. Cimadevilla, A.S. Cofiño and JM Gutiérrez (2019) The R-based climate4R open framework for reproducible climate data access and post-processing. *Environmental Modelling & Software*, **111**, 42-54. [DOI: /10.1016/j.envsoft.2018.09.009](https://doi.org/10.1016/j.envsoft.2018.09.009)
+
 ## Overview of reproducible execution environments
 
 The ability to reproduce your results with climate4R or any piece of software is essential.
